@@ -1,0 +1,10 @@
+evidently==0.3.1
+pandas==2.0.3
+seaborn==0.11.2
+lightgbm==3.3.5
+streamlit==1.25.0
+requests==2.26.0
+matplotlib==3.7.1
+scikit-learn==1.2.2
+shap==0.41.0
+numpy==1.23.5
